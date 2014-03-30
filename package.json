@@ -1,0 +1,26 @@
+{
+  "name": "elroy-pebble",
+  "version": "0.0.0",
+  "description": "Elroy app for sending your pebble notifications",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdobson/elroy-pebble.git"
+  },
+  "keywords": [
+    "elroy",
+    "pebble"
+  ],
+  "author": "mdobs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mdobson/elroy-pebble/issues"
+  },
+  "homepage": "https://github.com/mdobson/elroy-pebble",
+  "dependencies": {
+    "node-pebble": "0.0.1"
+  }
+}
